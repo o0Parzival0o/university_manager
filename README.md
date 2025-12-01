@@ -66,7 +66,7 @@ university_manager/
 └── utils/                 # Utilities
     ├── validators.py
     └── exporters.py
-
+````
 ## 💾 Database
 
 L'applicazione utilizza **SQLite** per memorizzare i dati in locale.  
