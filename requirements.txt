@@ -1,0 +1,22 @@
+# requirements.txt
+# Dipendenze per University Manager
+
+# Framework UI
+kivy==2.3.0
+kivymd==1.2.0
+
+# Calcoli e statistiche
+numpy==1.26.4
+
+# Database (già incluso in Python)
+# sqlite3
+
+# Per grafici (opzionale)
+matplotlib==3.8.3
+
+# Per export dati
+pandas==2.2.1
+
+# Build Android (solo se serve)
+# buildozer==1.5.0
+# cython==3.0.9
